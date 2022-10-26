@@ -1,4 +1,4 @@
-# Hola soy Lucas 👋🚀
+<h1 align="center">Hola soy Lucas 👋🚀</h1> 
 
 * Full Stack Web Developer
 * Apasionado por el desarollo web y los desasfios !!
