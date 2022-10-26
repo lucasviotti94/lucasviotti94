@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Lucas 👋🚀</h1> 
 
 * Full Stack Web Developer
-* Apasionado por el desarollo web y los desasfios !!
+* Apasionado por el desarollo web y el aprendizaje de nuevas tecnologias !
 * Egresado del bootcamp Henry (www.soyhenry.com)
 
 ### Datos de Contacto:
